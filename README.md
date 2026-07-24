@@ -1,15 +1,15 @@
 ## 🚀 Getting Started
 
-Follow these steps to run the project on your local machine.
+To run StudyGenius AI locally for development or demonstration purposes, follow these steps.
 
 ### Prerequisites
 
-Make sure you have installed:
+Ensure you have the following installed on your system:
 
-- Node.js (v18 or later)
-- npm (comes with Node.js)
+- **Node.js** (Version 18.0.0 or higher recommended)
+- **npm** (comes bundled with Node.js)
 
-You can verify the installation by running:
+You can verify your installation by running:
 
 ```bash
 node -v
@@ -18,13 +18,13 @@ npm -v
 
 ### Installation
 
-If you already have the project downloaded, open a terminal and navigate to the project folder:
+If you have already downloaded or extracted the project, open a terminal and navigate to the project directory:
 
 ```bash
 cd /d D:\namitanvidia2\studygenius-ai
 ```
 
-Install the required dependencies:
+Install the required dependencies (only required the first time):
 
 ```bash
 npm install
@@ -36,13 +36,15 @@ Start the development server:
 npm run dev
 ```
 
-After the server starts successfully, open your browser and visit:
+Once the server starts successfully, open your browser and visit:
 
 ```
 http://localhost:3000
 ```
 
-### If you cloned from GitHub
+### Cloning from GitHub (Optional)
+
+If you are downloading the project directly from GitHub instead of using the local folder:
 
 ```bash
 git clone https://github.com/namitacode203/studygenius-ai.git
@@ -50,3 +52,5 @@ cd studygenius-ai
 npm install
 npm run dev
 ```
+
+> **Note:** If you are already using the project from `D:\namitanvidia2\studygenius-ai`, you **do not need to clone the repository again**. Simply navigate to the project folder and run `npm run dev`.
