@@ -21,7 +21,7 @@ npm -v
 If you have already downloaded or extracted the project, open a terminal and navigate to the project directory:
 
 ```bash
-cd /d D:\namitanvidia2\studygenius-ai
+cd d:\namitanvidia2\studygenius-ai
 ```
 
 Install the required dependencies (only required the first time):
@@ -53,4 +53,4 @@ npm install
 npm run dev
 ```
 
-> **Note:** If you are already using the project from `D:\namitanvidia2\studygenius-ai`, you **do not need to clone the repository again**. Simply navigate to the project folder and run `npm run dev`.
+> **Note:** If you are already using the project from `d:\namitanvidia2\studygenius-ai`, you **do not need to clone the repository again**. Simply navigate to the project folder using `cd d:\namitanvidia2\studygenius-ai` and run `npm run dev`.
